@@ -1,41 +1,22 @@
 img {
-  width: 300px;
+    height: 250px;
 }
 
-h1 {
+body {
+    background-color: #70f5ff;
+}
+
+div {
     text-align: center;
 }
 
-.main {
-    text-align: center;
-
-}
-
-.button {
-    padding: 25px;
-    border-radius: 10px;
+h1{
+font-family: 'Permanent Marker', cursive;
+font-size: 50px
 }
 
 button {
-    margin: 5px;
-}
-
-.hide-button {
-    background-color: #fee975;
-}
-
-.show-button {
-    background-color: #ffaa7b;
-}
-
-.message-button {
-    background-color: #00ffcc;
-}
-
-.update-img-button {
-    background-color: #e4afee;
-}
-
-.name-button {
-    background-color: #17d3ff;
+  border-radius: 20px;
+  font-family: 'Permanent Marker', cursive;
+  padding: 10px;
 }
